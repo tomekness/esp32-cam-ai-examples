@@ -139,24 +139,8 @@ Jeder **OpenAI-kompatible** Endpunkt funktioniert:
 
 ## Contributors
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tomekness">
-        <img src="https://github.com/tomekness.png" width="80px" alt="Tomek Ness" /><br/>
-        <sub><b>Tomek Ness</b></sub>
-      </a><br/>
-      Author · Course Design
-    </td>
-    <td align="center">
-      <a href="https://claude.ai">
-        <img src="https://avatars.githubusercontent.com/u/76263028?s=80" width="80px" alt="Claude (Anthropic)" /><br/>
-        <sub><b>Claude (Anthropic)</b></sub>
-      </a><br/>
-      AI Pair Programmer
-    </td>
-  </tr>
-</table>
+- [Tomek Ness](https://github.com/tomekness) — Author, Course Design
+- [Claude](https://claude.ai) (Anthropic) — AI Pair Programmer
 
 ---
 
